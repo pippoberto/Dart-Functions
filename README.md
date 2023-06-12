@@ -7,3 +7,5 @@ This code provides a function to calculate the distance between two geographic p
 ### [Random Number Generator](https://github.com/pippoberto/Dart-Functions/blob/main/randomNumber.dart)
 This code provides a function to generate a random number between 1 and 2147483647 (the maximum value for a 32-bit signed integer in Dart). 
 I used it to generate a random seed for image generation with some stable diffusion APIs.
+### [Image Upload to Firebase Storage](https://github.com/pippoberto/Dart-Functions/blob/main/uploadImage.dart)
+This code provides a function to upload an image to Firebase Storage in Flutter. It takes a base64-encoded jpeg image string as input and returns the URL of the uploaded image.
